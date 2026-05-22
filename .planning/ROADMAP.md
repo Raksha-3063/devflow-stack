@@ -6,7 +6,7 @@ DevFlow is structured as a Vertical MVP built slice-by-slice. The project spans 
 
 ## Phases
 
-- [ ] **Phase 1: Shell, Auth & Storage Foundation** - Layout shell, client-side routing, LocalDB setup, and user authentication
+- [x] **Phase 1: Shell, Auth & Storage Foundation** - Layout shell, client-side routing, LocalDB setup, and user authentication
 - [ ] **Phase 2: Q&A Engine & Markdown Compiler** - Question and answer creation, comments, and markdown parsing with syntax highlighting
 - [ ] **Phase 3: Social Interactions & Search** - Voting, reputation points, tag sorting, and keyword search
 
@@ -24,8 +24,8 @@ DevFlow is structured as a Vertical MVP built slice-by-slice. The project spans 
 **Plans:** 2 plans
 
 Plans:
-- [ ] 01-01: Setup UI shell, LocalDB, and router
-- [ ] 01-02: Implement authentication views and profile page
+- [x] 01-01: Setup UI shell, LocalDB, and router
+- [x] 01-02: Implement authentication views and profile page
 
 ### Phase 2: Q&A Engine & Markdown Compiler
 **Goal:** Enable question submission with markdown preview, details page showing responses, and posting answers/comments.
@@ -63,6 +63,6 @@ Phases execute in numeric order: 1 → 2 → 3
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Shell, Auth & Storage Foundation | 0/2 | Not started | - |
+| 1. Shell, Auth & Storage Foundation | 2/2 | Completed | 2026-05-23 |
 | 2. Q&A Engine & Markdown Compiler | 0/2 | Not started | - |
 | 3. Social Interactions & Search | 0/2 | Not started | - |
