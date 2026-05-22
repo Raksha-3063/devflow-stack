@@ -56,24 +56,24 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| AUTH-01 | — | Pending |
-| AUTH-02 | — | Pending |
-| AUTH-03 | — | Pending |
-| AUTH-04 | — | Pending |
-| USER-01 | — | Pending |
-| POST-01 | — | Pending |
-| POST-02 | — | Pending |
-| SEAR-01 | — | Pending |
-| ANSW-01 | — | Pending |
-| ANSW-02 | — | Pending |
-| COMM-01 | — | Pending |
-| VOTE-01 | — | Pending |
-| DESI-01 | — | Pending |
+| AUTH-01 | Phase 1 | Pending |
+| AUTH-02 | Phase 1 | Pending |
+| AUTH-03 | Phase 1 | Pending |
+| AUTH-04 | Phase 1 | Pending |
+| USER-01 | Phase 1 | Pending |
+| POST-01 | Phase 2 | Pending |
+| POST-02 | Phase 2 | Pending |
+| SEAR-01 | Phase 3 | Pending |
+| ANSW-01 | Phase 2 | Pending |
+| ANSW-02 | Phase 2 | Pending |
+| COMM-01 | Phase 2 | Pending |
+| VOTE-01 | Phase 3 | Pending |
+| DESI-01 | Phase 1 | Pending |
 
 **Coverage:**
 - v1 requirements: 13 total
-- Mapped to phases: 0
-- Unmapped: 13 ⚠️
+- Mapped to phases: 13
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-05-22*
